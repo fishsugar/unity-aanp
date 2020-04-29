@@ -38,3 +38,7 @@ non-static inner class|nested class with extra parent argument in constructor
 field variable|property
 final field variable|readonly property
 field method|field method
+
+## Examples
+
+Example project: [unity-aanp-test](https://github.com/fishsugar/unity-aanp-test)
